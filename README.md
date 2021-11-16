@@ -1,2 +1,5 @@
 # Server-Management
-Sample for server management course
+
+Repository for Server Managament course
+
+# Header
