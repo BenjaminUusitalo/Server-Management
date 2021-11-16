@@ -48,21 +48,34 @@ Git push
 
 Git log, näyttää kaikki tehdyt commitit.
 
-![image info](./SCs/1.png)
+![image info](./SCs/gitlog.png)
 
 Git diff näyttää muutokset committien, treen, branchien yms. Välillä
 Kokeilin paria komentoa tuloksetta
 
-![image info](./SCs/2.png)
+![image info](./SCs/gitdiff.png)
 
 Git blame, näyttää kuka viimeksi muokkasi tiedoston kutakin riviä.
 
-![image info](./SCs/3.png)
+![image info](./SCs/gitblame.png)
 
 ## d) Huppis! 
 
 >Tee tyhmä muutos gittiin, älä tee commit:tia. 
 >Tuhoa huonot muutokset ‘git reset --hard’. Huomaa, että tässä toiminnossa ei ole peruutusnappia.
+
+Loin ensiksi uuden markdown -tiedoston
+
+![image info](./SCs/stupidfile.png)
+
+Tämän jälkeen käytin git reset --hard -komentoa
+
+![image info](./SCs/hardReset.png)
+
+Tiedosto oli poistunut ja palattiin uusimpaan commit-versioon
+
+![image info](./SCs/ls.png)
+
 
 ## e) Formula. 
 
@@ -71,3 +84,4 @@ Git blame, näyttää kuka viimeksi muokkasi tiedoston kutakin riviä.
 >Voit tehdä ihan yksinkertaisen parin funktion (pkg, file...) tilan, tai edistyneemmin 
 >asentaa ja konfiguroida minkä vain uuden ohjelman: demonin, työpöytäohjelman tai komentokehotteesta toimivan ohjelman. 
 >Käytä tarvittaessa ‘find -printf “%T+ %p\n”|sort’ löytääksesi uudet asetustiedostot.
+
