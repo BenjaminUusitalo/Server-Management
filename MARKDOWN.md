@@ -45,6 +45,15 @@ Git push
 
 >Näytä omalla git-varastollasi esimerkit komennoista ‘git log’, ‘git diff’ ja ‘git blame’. Selitä tulokset.
 
+
+Git log, näyttää kaikki tehdyt commitit.
+![image info](.h3/SCs/1.png)
+Git diff näyttää muutokset committien, treen, branchien yms. Välillä
+Kokeilin paria komentoa tuloksetta
+![image info](.h3/SCs/2.png)
+Git blame, näyttää kuka viimeksi muokkasi tiedoston kutakin riviä.
+![image info](.h3/SCs/3.png)
+
 ## d) Huppis! 
 
 >Tee tyhmä muutos gittiin, älä tee commit:tia. 
