@@ -6,15 +6,15 @@ This repository contains exercises for a server management course.
 
 **Salt** 
 
-* Master & Slave architechture
+* Master & Slave architecture
 
 **Vagrant** 
 
-* Creating and maintaining virtual computers with vagrant.
-* Master & Slave architechture between 2 different virtual computers
+* Creating and maintaining virtual computers with Vagrant
+* Master & Slave architecture between 2 different virtual computers
 
 **Version control**
 
 * Basics of Markdown
-* version control with GitBash
+* Version control with GitBash
 
