@@ -70,7 +70,7 @@ Loin ensiksi uuden markdown -tiedoston
 
 Tämän jälkeen käytin git reset --hard -komentoa
 
-![image info](./SCs/hardReset.png)
+![image info](./SCs/hardreset.png)
 
 Tiedosto oli poistunut ja palattiin uusimpaan commit-versioon
 
