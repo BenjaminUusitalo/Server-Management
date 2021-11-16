@@ -47,11 +47,16 @@ Git push
 
 
 Git log, näyttää kaikki tehdyt commitit.
+
 ![image info](./SCs/1.png)
+
 Git diff näyttää muutokset committien, treen, branchien yms. Välillä
 Kokeilin paria komentoa tuloksetta
+
 ![image info](./SCs/2.png)
+
 Git blame, näyttää kuka viimeksi muokkasi tiedoston kutakin riviä.
+
 ![image info](./SCs/3.png)
 
 ## d) Huppis! 
