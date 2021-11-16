@@ -4,13 +4,13 @@
 
 **Commonmark contributors: Markdown Reference** 
 
-"# Heading 1"
-"## Heading 2"
-"print 'indent 4 spaces'"
-"# code block"
-"* List"
-"[Link](http://a.com)"
-"![Image](http://url/a.png)"
+`# Heading 1`
+`## Heading 2`
+`print 'indent 4 spaces'`
+`# code block`
+`* List`
+`[Link](http://a.com)`
+`![Image](http://url/a.png)`
 
 
 ## a) Markdown
