@@ -1,5 +1,5 @@
 # Server-Management
 
-Repository for Server Managament course
+## Repository for server management course
 
-# Header
+
