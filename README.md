@@ -1,6 +1,6 @@
 # Server Management
 
-This repository contains exercises for a server management course.
+This repository contains reports for a server management course.
 
 ## Learned so far
 
