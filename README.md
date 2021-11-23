@@ -8,6 +8,7 @@ This repository contains exercises for a server management course.
 
 * Master & Slave architecture
 * Creating salt states to manage files and directories and to manage installations and settings of services.
+
 **Vagrant** 
 
 * Creating and maintaining virtual computers with Vagrant
